@@ -527,7 +527,7 @@
  .folowing{
    display: flex;
    justify-content: flex-end;
-   margin-left: auto;
+   margin-left: 93px;
  }
  .folowing-label {
 color: var(--main-light);
